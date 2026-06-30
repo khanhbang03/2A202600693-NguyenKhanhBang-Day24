@@ -1,6 +1,6 @@
 # LLM Judge Bias Report — Phase B
 
-**Sinh viên:** Nguyễn Khánh Băng  
+**Sinh viên:** Nguyễn Khánh Bằng  
 **Ngày:** 30/06/2026  
 **Judge model:** gpt-4o-mini config, deterministic offline judge fallback used in this run
 

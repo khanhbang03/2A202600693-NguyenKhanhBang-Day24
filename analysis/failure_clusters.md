@@ -1,6 +1,6 @@
 # Failure Cluster Analysis — Phase A
 
-**Sinh viên:** Nguyễn Khánh Băng  
+**Sinh viên:** Nguyễn Khánh Bằng  
 **Ngày:** 30/06/2026
 
 ---
