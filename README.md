@@ -192,12 +192,12 @@ python check_lab.py
 ```
 
 Checklist:
-- [ ] Day 18 source files đã copy vào `src/`
-- [ ] `answers_50q.json` đã được generate
-- [ ] 0 TODOs còn lại trong `src/phase_*.py`
-- [ ] `reports/ragas_50q.json`, `judge_results.json`, `guard_results.json` đã có
-- [ ] `reports/blueprint.md` đã điền đầy đủ
-- [ ] `pytest tests/` pass toàn bộ
+- [x] Day 18 source files đã copy vào `src/`
+- [x] `answers_50q.json` đã được generate
+- [x] 0 TODOs còn lại trong `src/phase_*.py`
+- [x] `reports/ragas_50q.json`, `judge_results.json`, `guard_results.json` đã có
+- [x] `reports/blueprint.md` đã điền đầy đủ
+- [x] `pytest tests/` pass toàn bộ
 
 ---
 
